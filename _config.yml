@@ -1,20 +1,20 @@
-typography_spectrum: 0.5389015178661793
+layout_spectrum: 0.9093496229033917
+typography_spectrum: 0.791750789154321
 color:
-  brandStrength: 0.48451921925880015
-  lightness: 0.9055592250078917
-  saturation: 0.16545621608383954
-  rhythmicContrast: 0.33156241686083376
+  brandStrength: 0.971507353708148
+  lightness: 0.08511202223598957
+  saturation: 0.5890282376203686
+  rhythmicContrast: 0.04996951296925545
   brandColors:
-    - '#000000'
-    - '#FFFB00'
-    - '#008D00'
-    - '#FF8000'
-    - '#FF0000'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 opengraph:
   appId: '106171216118819'
   type: Crepps
   image: null
-layout_spectrum: 0.7775581085588783
 author:
   name: Joshua Crepps
   email: josh@crepps-hi.com
