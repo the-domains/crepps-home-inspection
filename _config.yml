@@ -22,6 +22,9 @@ navigation:
   - name: About Me
     id: 1721f74c-1a19-4b7c-9470-40a8011d7e21
     type: content
+  - name: Facebook
+    url: 'https://www.facebook.com/creppshi/'
+    type: external
 collections:
   - index:
       path: /
