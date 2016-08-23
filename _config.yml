@@ -21,4 +21,7 @@ navigation:
   - name: About Us
     url: 'http://www.crepps-hi.com/AboutUs.html'
     type: external
+  - name: Services
+    url: 'http://www.crepps-hi.com/Services.html'
+    type: external
 title: A BRIGHT IDEA
