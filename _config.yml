@@ -1,33 +1,34 @@
-typography_spectrum: 0.5389015178661793
-color:
-  brandStrength: 0.48451921925880015
-  lightness: 0.9055592250078917
-  saturation: 0.16545621608383954
-  rhythmicContrast: 0.33156241686083376
-  brandColors:
-    - '#000000'
-    - '#FFFB00'
-    - '#008D00'
-    - '#FF8000'
-    - '#FF0000'
-opengraph:
-  appId: '106171216118819'
-  type: Crepps
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/73beb783-5ad3-4302-b265-043c4e015fe0.png
-layout_spectrum: 0.7775581085588783
 author:
   name: Joshua Crepps
   email: josh@crepps-hi.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b929ca94-acfe-4e07-8978-2f2f9afd565c.png
-name: Crepps Home Inspection
+title: A BRIGHT IDEA
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.4247312
+  brandStrength: 0.4845192192588001
+  lightness: 0.750896
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#FFFC01'
+    - '#008D00'
+    - '#787878'
+  rhythmicContrast: 0.5967742
+typography_spectrum: 0.5389015178661793
 navigation:
-  - name: Services
-    url: 'http://www.crepps-hi.com/Services.html'
+  - name: About Us
+    url: 'http://www.crepps-hi.com/AboutUs.html'
     type: external
-  - name: About Me
-    id: 1721f74c-1a19-4b7c-9470-40a8011d7e21
-    type: content
-title: Crepps Home Inspection
-description: A bright idea
+layout_spectrum: 0.5268817
+name: Crepps Home Inspection
