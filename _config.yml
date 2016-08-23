@@ -15,6 +15,10 @@ author:
   name: Joshua Crepps
   email: josh@crepps-hi.com
 name: Crepps Home Inspection
+navigation:
+  - name: Fees
+    id: 07cec14e-5c73-4103-8c65-00b754aae17c
+    type: content
 collections:
   - index:
       path: /
