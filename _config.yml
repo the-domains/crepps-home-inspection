@@ -11,5 +11,8 @@ color:
     - '#FF8000'
     - '#FF0000'
 layout_spectrum: 0.7775581085588783
+author:
+  name: Joshua Crepps
+  email: josh@crepps-hi.com
 name: Crepps Home Inspection
 title: A BRIGHT IDEA
