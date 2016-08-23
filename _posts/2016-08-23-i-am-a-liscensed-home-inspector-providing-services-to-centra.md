@@ -1,7 +1,7 @@
 ---
 title: ''
-datePublished: '2016-08-23T05:21:39.282Z'
-dateModified: '2016-08-23T05:21:19.505Z'
+datePublished: '2016-08-23T05:22:26.920Z'
+dateModified: '2016-08-23T05:22:25.930Z'
 author: []
 description: >-
   I am a liscensed home inspector providing services to central Kentucky. My
@@ -16,13 +16,12 @@ description: >-
   guidlines set forth by the state of Kentucky.
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-23-i-am-a-liscensed-home-inspector-providing-services-to-centra.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: i-am-a-liscensed-home-inspector-providing-services-to-centra/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c02698a6-6c87-4989-b1a9-8749395b7502.jpg)
