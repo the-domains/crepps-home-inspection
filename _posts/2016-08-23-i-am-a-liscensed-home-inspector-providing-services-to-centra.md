@@ -1,14 +1,13 @@
 ---
-datePublished: '2016-08-23T06:39:34.227Z'
+datePublished: '2016-08-23T07:23:21.992Z'
 sourcePath: >-
   _posts/2016-08-23-i-am-a-liscensed-home-inspector-providing-services-to-centra.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-23T06:39:33.696Z'
+dateModified: '2016-08-23T07:23:21.750Z'
 title: About Me
-publisher:
-  name: Joshua Crepps
+publisher: {}
 description: >-
   I am a licensed home inspector providing services to central Kentucky. My
   knowledge as a home inspector is based on 20 years of experience in the
