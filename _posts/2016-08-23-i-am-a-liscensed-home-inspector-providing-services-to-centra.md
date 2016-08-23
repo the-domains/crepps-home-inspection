@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-23T06:38:42.289Z'
+datePublished: '2016-08-23T06:39:34.227Z'
 sourcePath: >-
   _posts/2016-08-23-i-am-a-liscensed-home-inspector-providing-services-to-centra.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-23T06:38:41.870Z'
+dateModified: '2016-08-23T06:39:33.696Z'
 title: About Me
 publisher:
   name: Joshua Crepps
