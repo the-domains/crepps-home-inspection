@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-23T07:23:21.992Z'
+datePublished: '2016-08-23T07:48:27.283Z'
 sourcePath: >-
   _posts/2016-08-23-i-am-a-liscensed-home-inspector-providing-services-to-centra.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-23T07:23:21.750Z'
+dateModified: '2016-08-23T07:48:26.941Z'
 title: About Me
 publisher: {}
 description: >-
