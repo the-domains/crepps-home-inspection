@@ -13,14 +13,12 @@ color:
 opengraph:
   appId: '106171216118819'
   type: Crepps
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/73beb783-5ad3-4302-b265-043c4e015fe0.png
+  image: null
 layout_spectrum: 0.7775581085588783
 author:
   name: Joshua Crepps
   email: josh@crepps-hi.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b929ca94-acfe-4e07-8978-2f2f9afd565c.png
+logo: null
 name: Crepps Home Inspection
 navigation:
   - name: About Me
