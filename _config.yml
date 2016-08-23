@@ -1,4 +1,3 @@
-layout_spectrum: 0.9093496229033917
 typography_spectrum: 0.791750789154321
 color:
   brandStrength: 0.971507353708148
@@ -15,6 +14,9 @@ opengraph:
   appId: '106171216118819'
   type: Crepps
   image: null
+layout_spectrum: 0.9093496229033917
+analytics:
+  facebook: '317222451951966'
 author:
   name: Joshua Crepps
   email: josh@crepps-hi.com
