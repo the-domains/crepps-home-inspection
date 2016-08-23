@@ -15,10 +15,6 @@ author:
   name: Joshua Crepps
   email: josh@crepps-hi.com
 name: Crepps Home Inspection
-navigation:
-  - name: About Us
-    url: 'http://www.crepps-hi.com/AboutUs.html'
-    type: external
 collections:
   - index:
       path: /
