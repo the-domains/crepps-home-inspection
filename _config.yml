@@ -1,7 +1,24 @@
+typography_spectrum: 0.5389015178661793
+color:
+  saturation: 0.6917562
+  brandStrength: 0.06272402
+  lightness: 0.750896
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#FFFC01'
+    - '#008D00'
+    - '#787878'
+  rhythmicContrast: 0.9247312
+layout_spectrum: 0.5268817
 author:
   name: Joshua Crepps
   email: josh@crepps-hi.com
-title: A BRIGHT IDEA
+name: Crepps Home Inspection
+navigation:
+  - name: About Us
+    url: 'http://www.crepps-hi.com/AboutUs.html'
+    type: external
 collections:
   - index:
       path: /
@@ -14,21 +31,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.6917562
-  brandStrength: 0.06272402
-  lightness: 0.750896
-  brandColors:
-    - '#FFFFFF'
-    - '#000000'
-    - '#FFFC01'
-    - '#008D00'
-    - '#787878'
-  rhythmicContrast: 0.9247312
-typography_spectrum: 0.5389015178661793
-navigation:
-  - name: About Us
-    url: 'http://www.crepps-hi.com/AboutUs.html'
-    type: external
-layout_spectrum: 0.5268817
-name: Crepps Home Inspection
+title: Crepps Home Inspection
