@@ -1,34 +1,34 @@
-layout_spectrum: 0.9093496229033917
-typography_spectrum: 0.4528647444676608
-color:
-  brandStrength: 0.9695302755571902
-  lightness: 0.7179939581546932
-  saturation: 0.5734345042146742
-  rhythmicContrast: 0.05556129687465727
-  brandColors:
-    - '#B0CC99'
-    - '#677E52'
-    - '#B7CA79'
-    - '#F6E8B1'
-    - '#89725B'
-opengraph:
-  appId: '106171216118819'
-  type: Crepps
-  image: null
-analytics:
-  facebook: '317222451951966'
-  google: UA-8005393-3
 author:
   name: Joshua Crepps
   email: josh@crepps-hi.com
-logo: null
-name: Crepps Home Inspection
+title: A BRIGHT IDEA
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.6917562
+  brandStrength: 0.06272402
+  lightness: 0.750896
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#FFFC01'
+    - '#008D00'
+    - '#787878'
+  rhythmicContrast: 0.9247312
+typography_spectrum: 0.5389015178661793
 navigation:
-  - name: About Me
-    id: 1721f74c-1a19-4b7c-9470-40a8011d7e21
-    type: content
-  - name: Fees
-    id: 07cec14e-5c73-4103-8c65-00b754aae17c
-    type: content
-title: Crepps Home Inspection
-description: A bright idea
+  - name: About Us
+    url: 'http://www.crepps-hi.com/AboutUs.html'
+    type: external
+layout_spectrum: 0.5268817
+name: Crepps Home Inspection
