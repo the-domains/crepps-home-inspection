@@ -1,4 +1,3 @@
-layout_spectrum: 0.7775581085588783
 typography_spectrum: 0.5389015178661793
 color:
   brandStrength: 0.48451921925880015
@@ -6,9 +5,11 @@ color:
   saturation: 0.16545621608383954
   rhythmicContrast: 0.33156241686083376
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#000000'
+    - '#FFFB00'
+    - '#008D00'
+    - '#FF8000'
+    - '#FF0000'
+layout_spectrum: 0.7775581085588783
 name: Crepps Home Inspection
+title: A BRIGHT IDEA
