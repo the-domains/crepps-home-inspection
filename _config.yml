@@ -22,9 +22,5 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b929ca94-acfe-4e07-8978-2f2f9afd565c.png
 name: Crepps Home Inspection
-navigation:
-  - name: Services
-    url: 'http://www.crepps-hi.com/Services.html'
-    type: external
 title: Crepps Home Inspection
 description: A bright idea
