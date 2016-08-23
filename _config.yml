@@ -22,5 +22,9 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b929ca94-acfe-4e07-8978-2f2f9afd565c.png
 name: Crepps Home Inspection
+navigation:
+  - name: About Me
+    id: 1721f74c-1a19-4b7c-9470-40a8011d7e21
+    type: content
 title: Crepps Home Inspection
 description: A bright idea
