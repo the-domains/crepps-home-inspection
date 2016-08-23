@@ -19,6 +19,9 @@ navigation:
   - name: Fees
     id: 07cec14e-5c73-4103-8c65-00b754aae17c
     type: content
+  - name: About Me
+    id: 1721f74c-1a19-4b7c-9470-40a8011d7e21
+    type: content
 collections:
   - index:
       path: /
