@@ -1,7 +1,22 @@
-typography_spectrum: 0.5389015178661793
+author:
+  name: Joshua Crepps
+  email: josh@crepps-hi.com
+title: Crepps Home Inspection
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.6917562
-  brandStrength: 0.06272402
+  brandStrength: 1
   lightness: 0.750896
   brandColors:
     - '#FFFFFF'
@@ -10,11 +25,8 @@ color:
     - '#008D00'
     - '#787878'
   rhythmicContrast: 0.9247312
-layout_spectrum: 0.5268817
-author:
-  name: Joshua Crepps
-  email: josh@crepps-hi.com
-name: Crepps Home Inspection
+typography_spectrum: 0.5389015178661793
+description: A bright idea!
 navigation:
   - name: Fees
     id: 07cec14e-5c73-4103-8c65-00b754aae17c
@@ -25,17 +37,5 @@ navigation:
   - name: Facebook
     url: 'https://www.facebook.com/creppshi/'
     type: external
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-title: Crepps Home Inspection
-description: A bright idea!
+layout_spectrum: 0.5268817
+name: Crepps Home Inspection
