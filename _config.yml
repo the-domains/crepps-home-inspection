@@ -8,25 +8,26 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+description: A bright idea!
 color:
-  saturation: 0.6917562
+  saturation: 0.7455197
   brandStrength: 1
-  lightness: 0.750896
+  lightness: 1
   brandColors:
     - '#FFFFFF'
     - '#000000'
     - '#FFFC01'
     - '#008D00'
     - '#787878'
-  rhythmicContrast: 0.9247312
+  rhythmicContrast: 0.6451613
 typography_spectrum: 0.5389015178661793
-description: A bright idea!
+layout_spectrum: 0
 navigation:
   - name: Fees
     id: 07cec14e-5c73-4103-8c65-00b754aae17c
@@ -37,5 +38,4 @@ navigation:
   - name: Facebook
     url: 'https://www.facebook.com/creppshi/'
     type: external
-layout_spectrum: 0.5268817
 name: Crepps Home Inspection
